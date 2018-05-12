@@ -1,4 +1,6 @@
 *~
+*.xml
+*.pdf
 *.aux
 *.toc
 *.bbl
@@ -10,3 +12,4 @@
 *.vrb
 *.out
 *.snm
+main-blx.bib
